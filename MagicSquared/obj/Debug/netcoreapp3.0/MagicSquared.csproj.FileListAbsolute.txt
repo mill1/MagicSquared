@@ -9,3 +9,14 @@ C:\Users\e.nijhuis\source\repos\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.
 C:\Users\e.nijhuis\source\repos\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.dll
 C:\Users\e.nijhuis\source\repos\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.pdb
 C:\Users\e.nijhuis\source\repos\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.csprojAssemblyReference.cache
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.exe
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.deps.json
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.runtimeconfig.json
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.runtimeconfig.dev.json
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.dll
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\bin\Debug\netcoreapp3.0\MagicSquared.pdb
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.csprojAssemblyReference.cache
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.AssemblyInfoInputs.cache
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.AssemblyInfo.cs
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.dll
+C:\Users\e.nijhuis\Documents\Visual Studio 2019\Projects\MagicSquared\MagicSquared\obj\Debug\netcoreapp3.0\MagicSquared.pdb

@@ -8,6 +8,9 @@ namespace MagicSquared
 {
     public class Process
     {
+        static int depth = 0;
+        static int max_depth = 0;
+
         private Square square;
         private List<List<Cell>> combinations;
         private List<List<Cell>> variations;
@@ -48,7 +51,7 @@ namespace MagicSquared
             int r = 6;
             CheckCombinations(arr, arr.Length, r);
 
-            Console.WriteLine("done");
+            Console.WriteLine($"done {max_depth}");
         }
 
         // The main function that handles all combinations of size r in arr[] of size n.
@@ -73,8 +76,13 @@ namespace MagicSquared
            r            ---> Size of a combination to be printed       */
         private void CheckCombination(int[] arr, int[] data, int start, int end, int index, int r)
         {
+            depth++;
+            max_depth = Math.Max(depth, max_depth);
+
             if (index == r)
             {
+                
+
                 //for (int j = 0; j < r; j++)
                 //    Console.Write(data[j] + " ");
                 //Console.WriteLine();
@@ -89,6 +97,7 @@ namespace MagicSquared
                     if (square.IsCandidate(combination))
                         CheckCandidate(combination);
 
+                depth--;
                 return;
             }
 
@@ -99,6 +108,8 @@ namespace MagicSquared
                 data[index] = arr[i];
                 CheckCombination(arr, data, i + 1, end, index + 1, r);
             }
+
+            depth--;
         }
 
         private BigInteger Factorial(BigInteger number)
